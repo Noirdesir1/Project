@@ -1,0 +1,143 @@
+<html>
+   <head>
+   <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+   <title>the html style chooser</title>
+
+<!-- paths on Raspberry Pi running NGINX server -->
+<!-- form path: /usr/local/nginx/html/ali114_PRG550B.221.A2.html -->
+<!-- cgi path:  /usr/local/nginx/cgi-bin/ali114_PRG550B.221.A2.py -->
+<style type="text/css">
+ .ref0 { font-family: Georgia, monospace; font-size: 14pt }
+ .ref1 { font-family: Georgia, monospace; font-size: 18pt; color: #0000ff }
+ .ref2 { font-family: Georgia, monospace; font-size: 12pt; color: #ff0000 }
+ .ref3 { font-family: Georgia, monospace; font-size: 10pt }
+</style>
+</head>
+<body>
+<h1>Atson Li's Coures Chooser</h1>
+<p>Welcome to course chooser.
+please enter course name and select course marking criteria below</p>
+
+<p>use the <strong>go</strong> button to process your results.</p>
+
+<form method="post" action="../cgi-bin/ali114_PRG550B.221.A2.py">
+
+<p>Please enter course name:
+<textarea name="text"  rows="1" cols="6"></textarea>
+</p>
+
+<p>Please select quiz number below:
+<select name="quizNum">
+<option value="0" selected="selected">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+</select>
+</p>
+
+<p>Please select quiz value below:
+<select name="quizVal">
+<option value="1%" selected="selected">1%</option>
+<option value="2%">2%</option>
+<option value="3%">3%</option>
+</select>
+</p>
+
+<p>Please select lab number below:
+<select name="labNum">
+<option value="0" selected="selected">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+</select>
+</p>
+
+<p>Please select lab value below:
+<select name="labVal">
+<option value="1%" selected="selected">1%</option>
+<option value="2%">2%</option>
+<option value="3%">3%</option>
+<option value="4%">4%</option>
+<option value="5%">5%</option>
+<option value="6%">6%</option>
+<option value="7%">7%</option>
+<option value="8%">8%</option>
+</select>
+</p>
+
+<p>Please select assignment number below:
+<select name="assignmentNum">
+<option value="0" selected="selected">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+</select>
+</p>
+
+<p>Please select assignment value below:
+<select name="assignmentVal">
+<option value="1%" selected="selected">1%</option>
+<option value="2%">2%</option>
+<option value="3%">3%</option>
+<option value="4%">4%</option>
+<option value="5%">5%</option>
+<option value="6%">6%</option>
+<option value="7%">7%</option>
+<option value="8%">8%</option>
+<option value="9%">9%</option>
+<option value="10%">10%</option>
+</select>
+</p>
+
+<p>Please select test number below:
+<select name="testNum">
+<option value="0" selected="selected">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+</select>
+</p>
+
+<p>Please select test value below:
+<select name="testVal">
+<option value="5%" selected="selected">5%</option>
+<option value="6%">6%</option>
+<option value="7%">7%</option>
+<option value="8%">8%</option>
+<option value="9%">9%</option>
+<option value="10%">10%</option>
+<option value="11%">11%</option>
+<option value="12%">12%</option>
+<option value="13%">13%</option>
+<option value="14%">14%</option>
+<option value="15%">15%</option>
+<option value="16%">16%</option>
+<option value="17%">17%</option>
+<option value="18%">18%</option>
+<option value="19%">19%</option>
+<option value="20%">20%</option>
+</select>
+</p>
+
+<p>Please select a background colour for the headings from the list below:
+<select name="bgcolor">
+<option value="#c0c0c0"selected="selected">grey</option>
+<option value="#ff0000">red</option>
+<option value="#00ff00">green</option>
+<option value="#0000ff">blue</option>
+</select>
+</p>
+
+<p><input type="submit" value="go" />
+<input type="reset" value="clear form" /></p>
+
+</form>
+
+
+</body></html>
