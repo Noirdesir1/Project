@@ -1,0 +1,7 @@
+F:\Seneca documents\term6\PRG650-LAB\project\PRG650 PROJECT\ShopServer\obj\Debug\ShopServer.csproj.AssemblyReference.cache
+F:\Seneca documents\term6\PRG650-LAB\project\PRG650 PROJECT\ShopServer\obj\Debug\ShopServer.csproj.CoreCompileInputs.cache
+F:\Seneca documents\term6\PRG650-LAB\project\PRG650 PROJECT\ShopServer\bin\Debug\ShopServer.exe.config
+F:\Seneca documents\term6\PRG650-LAB\project\PRG650 PROJECT\ShopServer\bin\Debug\ShopServer.exe
+F:\Seneca documents\term6\PRG650-LAB\project\PRG650 PROJECT\ShopServer\bin\Debug\ShopServer.pdb
+F:\Seneca documents\term6\PRG650-LAB\project\PRG650 PROJECT\ShopServer\obj\Debug\ShopServer.exe
+F:\Seneca documents\term6\PRG650-LAB\project\PRG650 PROJECT\ShopServer\obj\Debug\ShopServer.pdb
