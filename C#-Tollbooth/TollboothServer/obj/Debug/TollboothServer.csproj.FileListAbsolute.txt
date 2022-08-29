@@ -1,0 +1,50 @@
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\resources\Tollbooth\TollboothServer\bin\Debug\TollboothServer.exe.config
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\resources\Tollbooth\TollboothServer\bin\Debug\TollboothServer.exe
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\resources\Tollbooth\TollboothServer\bin\Debug\TollboothServer.pdb
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\resources\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csprojAssemblyReference.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\resources\Tollbooth\TollboothServer\obj\Debug\TollboothServer.Properties.Resources.resources
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\resources\Tollbooth\TollboothServer\obj\Debug\TollboothServer.TollboothServerForm.resources
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\resources\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csproj.GenerateResource.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\resources\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csproj.CoreCompileInputs.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\resources\Tollbooth\TollboothServer\obj\Debug\TollboothServer.exe
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\resources\Tollbooth\TollboothServer\obj\Debug\TollboothServer.pdb
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\080-Tollbooth\Tollbooth\TollboothServer\bin\Debug\TollboothServer.exe.config
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\080-Tollbooth\Tollbooth\TollboothServer\bin\Debug\TollboothServer.exe
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\080-Tollbooth\Tollbooth\TollboothServer\bin\Debug\TollboothServer.pdb
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\080-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csprojAssemblyReference.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\080-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.Properties.Resources.resources
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\080-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.TollboothServerForm.resources
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\080-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csproj.GenerateResource.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\080-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csproj.CoreCompileInputs.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\080-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.exe
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\080-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.pdb
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\bin\Debug\TollboothServer.exe.config
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\bin\Debug\TollboothServer.exe
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\bin\Debug\TollboothServer.pdb
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csprojAssemblyReference.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.Properties.Resources.resources
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.TollboothServerForm.resources
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csproj.GenerateResource.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csproj.CoreCompileInputs.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.exe
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.pdb
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\bin\Debug\TollboothServer.exe.config
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\bin\Debug\TollboothServer.exe
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\bin\Debug\TollboothServer.pdb
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csprojAssemblyReference.cache
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.Properties.Resources.resources
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.TollboothServerForm.resources
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csproj.GenerateResource.cache
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csproj.CoreCompileInputs.cache
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.exe
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\080-Client-Server\090-Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.pdb
+F:\Seneca documents\term6\PRG650-LAB\example lab code\client and server\Tollbooth\Tollbooth\TollboothServer\bin\Debug\TollboothServer.exe.config
+F:\Seneca documents\term6\PRG650-LAB\example lab code\client and server\Tollbooth\Tollbooth\TollboothServer\bin\Debug\TollboothServer.exe
+F:\Seneca documents\term6\PRG650-LAB\example lab code\client and server\Tollbooth\Tollbooth\TollboothServer\bin\Debug\TollboothServer.pdb
+F:\Seneca documents\term6\PRG650-LAB\example lab code\client and server\Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csproj.AssemblyReference.cache
+F:\Seneca documents\term6\PRG650-LAB\example lab code\client and server\Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.Properties.Resources.resources
+F:\Seneca documents\term6\PRG650-LAB\example lab code\client and server\Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.TollboothServerForm.resources
+F:\Seneca documents\term6\PRG650-LAB\example lab code\client and server\Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csproj.GenerateResource.cache
+F:\Seneca documents\term6\PRG650-LAB\example lab code\client and server\Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.csproj.CoreCompileInputs.cache
+F:\Seneca documents\term6\PRG650-LAB\example lab code\client and server\Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.exe
+F:\Seneca documents\term6\PRG650-LAB\example lab code\client and server\Tollbooth\Tollbooth\TollboothServer\obj\Debug\TollboothServer.pdb
