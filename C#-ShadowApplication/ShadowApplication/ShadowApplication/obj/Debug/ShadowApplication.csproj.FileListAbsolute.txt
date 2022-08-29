@@ -1,0 +1,50 @@
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\resources\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.exe.config
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\resources\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.exe
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\resources\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.pdb
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\resources\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csprojAssemblyReference.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\resources\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.Properties.Resources.resources
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\resources\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.ShadowForm.resources
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\resources\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csproj.GenerateResource.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\resources\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csproj.CoreCompileInputs.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\resources\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.exe
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\resources\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.pdb
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.exe.config
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.exe
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.pdb
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csprojAssemblyReference.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.Properties.Resources.resources
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.ShadowForm.resources
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csproj.GenerateResource.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csproj.CoreCompileInputs.cache
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.exe
+G:\wayne\Seneca\PRG650 FALL 2020\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.pdb
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.exe.config
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.exe
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.pdb
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csprojAssemblyReference.cache
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.Properties.Resources.resources
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.ShadowForm.resources
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csproj.GenerateResource.cache
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csproj.CoreCompileInputs.cache
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.exe
+G:\wayne\Seneca\PRG650 WINTER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.pdb
+G:\wayne\Seneca\PRG650 SUMMER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.exe.config
+G:\wayne\Seneca\PRG650 SUMMER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.exe
+G:\wayne\Seneca\PRG650 SUMMER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.pdb
+G:\wayne\Seneca\PRG650 SUMMER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csprojAssemblyReference.cache
+G:\wayne\Seneca\PRG650 SUMMER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.Properties.Resources.resources
+G:\wayne\Seneca\PRG650 SUMMER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.ShadowForm.resources
+G:\wayne\Seneca\PRG650 SUMMER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csproj.GenerateResource.cache
+G:\wayne\Seneca\PRG650 SUMMER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csproj.CoreCompileInputs.cache
+G:\wayne\Seneca\PRG650 SUMMER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.exe
+G:\wayne\Seneca\PRG650 SUMMER 2021\BlackBoard\Course Notes\070-Multithreading\500-The GUI (Message Loop) Thread\570-ShadowApplication\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.pdb
+F:\Seneca documents\term6\PRG650-LAB\example lab code\GUI\ShadowApplication(1)\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.exe.config
+F:\Seneca documents\term6\PRG650-LAB\example lab code\GUI\ShadowApplication(1)\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.exe
+F:\Seneca documents\term6\PRG650-LAB\example lab code\GUI\ShadowApplication(1)\ShadowApplication\ShadowApplication\bin\Debug\ShadowApplication.pdb
+F:\Seneca documents\term6\PRG650-LAB\example lab code\GUI\ShadowApplication(1)\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csproj.AssemblyReference.cache
+F:\Seneca documents\term6\PRG650-LAB\example lab code\GUI\ShadowApplication(1)\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.Properties.Resources.resources
+F:\Seneca documents\term6\PRG650-LAB\example lab code\GUI\ShadowApplication(1)\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.ShadowForm.resources
+F:\Seneca documents\term6\PRG650-LAB\example lab code\GUI\ShadowApplication(1)\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csproj.GenerateResource.cache
+F:\Seneca documents\term6\PRG650-LAB\example lab code\GUI\ShadowApplication(1)\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.csproj.CoreCompileInputs.cache
+F:\Seneca documents\term6\PRG650-LAB\example lab code\GUI\ShadowApplication(1)\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.exe
+F:\Seneca documents\term6\PRG650-LAB\example lab code\GUI\ShadowApplication(1)\ShadowApplication\ShadowApplication\obj\Debug\ShadowApplication.pdb
